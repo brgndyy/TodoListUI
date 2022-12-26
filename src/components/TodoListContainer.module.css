@@ -1,0 +1,11 @@
+.TodoListContainer{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(45, 42, 76);
+
+    padding: 10px;
+}
+
+.TodoListContainer ul{
+    padding: 0;
+}
